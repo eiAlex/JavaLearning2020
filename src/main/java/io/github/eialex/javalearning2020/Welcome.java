@@ -14,6 +14,8 @@ public class Welcome
  public static void main(String[] args)
 {
 System.out.println("Welcome to Java Programming!]r\r");
+System.out.printf("%s%n%s%n",
+        "Welcome to", "Java Programming!");
  } // fim do método main
  } // fim da classe Welcome1
 //** Coemntario para java doc */ ss
